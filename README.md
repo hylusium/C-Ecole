@@ -2,4 +2,4 @@
 
 school Project
 
-C# projet Gestion Ecole POO effectuer en cours :flag_fr:
+C# projet Gestion Ecole POO effectuer en cours :tada:
