@@ -1,2 +1,5 @@
 # C-Ecole
-school Project 
+
+school Project
+
+C# projet Gestion Ecole POO effectuer en cours :flag_fr:
